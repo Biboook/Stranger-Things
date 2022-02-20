@@ -1,0 +1,28 @@
+.field-icon {
+	float: right;
+	margin-left: -25px;
+	margin-top: -25px;
+	position: relative;
+  	z-index: 2;	
+}
+
+.container{
+	align-content: center;
+  	padding-top:50px;
+  	margin: auto;
+}
+
+.ball {
+	align-items: center;
+  	width: 50px;
+  	height: 50px;
+  	margin-top: 150px;
+  	margin-left: 10px;
+  	border-radius: 50%;
+  	background-color: gray;
+  	float: left;
+}
+
+.balls {
+	align-items: center;
+}
